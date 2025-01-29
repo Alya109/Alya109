@@ -11,13 +11,13 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## Skills
 
-### Languages
+## Languages
 
 - HTML
 - CSS
 - Python
 
-### Tools
+## Tools
 
 - GitHub
 - VS Code
