@@ -4,6 +4,10 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## About Me
 
+![Alya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alya109&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alya109&layout=compact&theme=radical)
+
 - 🔭 I’m currently working on various web development projects.
 - 🌱 I’m currently learning Python programming langugae.
 - 👯 I’m looking to collaborate on open-source projects.
@@ -31,6 +35,3 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 Thanks for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate or just chat about tech.
 
-![Alya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alya109&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alya109&layout=compact&theme=radical)
