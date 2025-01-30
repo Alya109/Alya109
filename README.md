@@ -8,10 +8,10 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alya109&layout=compact&theme=radical)
 
-- 🔭 I’m currently working on various web development projects.
-- 🌱 I’m currently learning Python programming langugae.
+- 🔭 I’m currently working on various coding projects and learn from it.
+- 🌱 **Currently learning:** Python
 - 👯 I’m looking to collaborate on open-source projects.
-- 💬 Ask me about HTML, CSS, and Python.
+- 💬 Knows about **HTML, CSS, and Python.**
 
 ## Skills
 
