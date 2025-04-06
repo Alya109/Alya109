@@ -15,13 +15,6 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Knows about **HTML, CSS, and Python.**
 
-## Skills
-- Gambling
-- Gambling?
-- Gacha Gambling
-- Staring in distance
-- High af
-- 
 ## 💻 Languages
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
