@@ -34,5 +34,5 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/earl-vanesse-lumabi-38066a415/)
 
 
-Thanks for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate or just chat about tech.
+Thanks for visiting my profile!
 
