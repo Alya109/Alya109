@@ -1,4 +1,4 @@
-# Hi there, I'm Alya 👋
+# Hi there, I'm Earl 👋
 
 Welcome to my GitHub profile! I'm passionate about coding, learning new technologies, and building awesome projects. Here's a little bit about me: 
 
